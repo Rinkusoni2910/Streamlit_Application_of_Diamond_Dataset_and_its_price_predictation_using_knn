@@ -3,7 +3,7 @@ Make a streamlit app with Diamond Price Prediction model.
 
 Ask the user to enter the details about diamond, and your application should revert back with the price prediction.
 
-#About Dataset
+# About Dataset
 1. Title : Diamonds Dataset
 
 2. the 7th column "price" is the values to be predicted.
